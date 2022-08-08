@@ -3,5 +3,3 @@
 Discription
 
 Automated Risk Management Software for Information System
-
-Open Source 
