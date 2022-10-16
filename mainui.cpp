@@ -2,8 +2,8 @@
 		while(m_usb.isConnected()) {
 			m_con.clear();
 			m_con << "****************************************" << endl;
-			m_con << "*     Welcome to Self-Balance Robot    *" << endl;
-			m_con << "*                 " VERSION "               *" << endl;
+			m_con << "*                                      *" << endl;
+			m_con << "*               " VERSION "            *" << endl;
 			m_con << "****************************************" << endl;
 			m_con << "[1] Calibrations" << endl;
 			m_con << "[2] PID Control tuning" << endl;
